@@ -12,3 +12,5 @@ const indexed = pets.reduce(
   }),
   {}
 );
+
+console.log(indexed(""));
